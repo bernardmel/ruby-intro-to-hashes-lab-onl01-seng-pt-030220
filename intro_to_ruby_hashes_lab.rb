@@ -1,7 +1,6 @@
-def new_hash(array)
-  array {
+def new_hash(hash)
+  hash => {}
 
-  }
 end
 
 def actor
