@@ -1,6 +1,7 @@
-def new_hash{
-  "new_hash" => ""
-}
+def new_hash(hash)
+  new_hash = {
+
+  }
 
 end
 
